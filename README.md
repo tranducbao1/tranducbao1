@@ -15,7 +15,7 @@
 
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
 
-- ✍ I’m currently studying at the University of Information Technology as a 4th student.
+- ✍ I’m currently studying at [University of Information Technology](https://www.uit.edu.vn/) as a 4th student.
 - 🌱 I’m currently learning **MERN Stack.**
 - ⚡ In my free time I learn programming, exercise and play soccer.
 
